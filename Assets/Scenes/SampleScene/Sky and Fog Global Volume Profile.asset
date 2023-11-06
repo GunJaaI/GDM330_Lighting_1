@@ -15,13 +15,13 @@ MonoBehaviour:
   active: 1
   rotation:
     m_OverrideState: 1
-    m_Value: 0
+    m_Value: 58
   skyIntensityMode:
     m_OverrideState: 1
     m_Value: 0
   exposure:
     m_OverrideState: 1
-    m_Value: 8
+    m_Value: 7
   multiplier:
     m_OverrideState: 0
     m_Value: 1
